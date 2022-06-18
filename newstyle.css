@@ -1,0 +1,21 @@
+
+  table, th, td {
+    /* border: 1px solid black; */
+   /*  border-collapse: collapse; */
+    border-radius: 10px;
+    border-style:/* groove */ /* ridge *//* dotted */ /* dashed */double 
+     
+  }
+  th, td {
+    /* background-color: #96D4D4; */
+    border-color: #96D4D4;
+    text-align: center;
+  }
+tbody {
+    font-size: 95%;
+    font-style: italic;
+  }
+  
+  tfoot {
+    font-weight: bold;
+  }

@@ -1,0 +1,22 @@
+@media screen and (min-width: 1024px){
+   /*  .container{
+        flex-direction: row;
+        justify-content: normal;
+        padding: 0;
+    } */
+
+    .image-container{
+        display: none;
+    }
+
+    .form{
+        padding: 0;
+
+    }
+
+    .form__btn:hover {
+
+       background: var(--blue2);
+    }
+    
+}
